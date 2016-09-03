@@ -1,3 +1,4 @@
+#Jeninsサーバーの中にDocker一式をインストールし外から操作するという優れもの！
 FROM jenkins:1.609.3
 USER root
 
